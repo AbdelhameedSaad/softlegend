@@ -1,0 +1,115 @@
+@media screen and (max-width:768px) {
+    /**************Start Side Bar//////////*/
+    .side-bar {
+        width: 40px;
+    }
+    .side-bar ul li i {
+        font-size: 20px;
+        margin: auto;
+        width: 100%;
+    }
+    /************End Side Bar******************/
+    /********Start NavBar******/
+    .navbar {
+        background-color: rgba(255, 255, 255, 1) !important;
+        padding: 10px 10px;
+    }
+    .navbar-nav {
+        float: none;
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-item {
+        color: #000;
+        margin: 10px 0;
+        padding: 10px 0;
+        transition: all 0.3s ease;
+        -webkit-transition: all 0.3s ease;
+        -moz-transition: all 0.3s ease;
+        -ms-transition: all 0.3s ease;
+        -o-transition: all 0.3s ease;
+    }
+    .navbar-light .navbar-nav .nav-item:hover {
+        color: var(--main-color);
+    }
+    .navbar-toggler-icon {
+        width: 1rem;
+        height: 1rem
+    }
+    /******End NavBar******/
+    /*************Start breadcrumb****************/
+    .breadcrumb {
+        font-size: 70px
+    }
+    /***************End breadcrumb***************/
+    /*************Start Main Page**************/
+    /*****Start Banner Section*************/
+    .banner {
+        padding-top: 23%;
+        width: 90%;
+    }
+    .banner h1 {
+        font-size: 30px;
+    }
+    .banner p {
+        margin: 40px 0 50px 0;
+    }
+    /******End the Banner Section*******/
+    /*************Start Main Page Sercisec Section************/
+    .services .row .col-md-4 {
+        margin-bottom: 30px;
+    }
+    /*************Start Main Page Sercices Section************/
+    /*************End Main Page**************/
+    /********************Start Contact Page**************/
+    .contact-numbers-section .row .col-md-4 .row .col-md-10 {
+        text-align: center;
+        margin: auto
+    }
+    .contact-image img {
+        width: 50%;
+    }
+    /**********************End Contact page*************/
+    /***************Start Mobile Servisces Section*********/
+    .mobile-over-view-section img {
+        display: none;
+    }
+    .mobile-over-view-section .content h1 {
+        font-size: 5vw;
+        text-align: center;
+    }
+    .mobile-over-view-section .content button {
+        margin: auto;
+    }
+    .contact h1 {
+        font-size: 1.3rem;
+        width: 100%;
+        text-align: center;
+        margin: 40px 0 10px 0;
+    }
+    .contact .btn-contact {
+        margin: 20px 0;
+    }
+}
+
+@media screen and (max-width:620px) {
+    .footer-subnav-links {
+        width: 100%;
+    }
+    .footer-subnav-links ul {
+        margin-bottom: 40px;
+        padding: 0;
+    }
+    .footer-subnav-links ul li {
+        display: block;
+        margin: 0 0px 10px 0;
+    }
+    .footer-social-icons {
+        justify-content: start!important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        min-width: 95%;
+    }
+}

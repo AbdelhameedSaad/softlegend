@@ -1,0 +1,133 @@
+/*****************Start over View Section*************/
+
+.overview-section {
+    padding: 90px 0;
+}
+
+.overview-section img {
+    width: 100%;
+}
+
+.overview-section h2 {
+    font-weight: bolder;
+}
+
+.overview-section p {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+
+/*****************End Over View Section***************/
+
+
+/**************************************Start web section **************/
+
+.web-over-view-section {
+    background-color: #fbfbfb
+}
+
+.web-over-view-section p {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.web-over-view-section h2 {
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.web-over-view-section button,
+.digial-marketing-over-view-section button,
+.mobile-over-view-section button {
+    border: none;
+    min-width: 22%;
+    background: var(--main-color);
+    border-radius: 15px;
+    outline: none;
+    font-weight: bold;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+
+/**************************************End web section **************/
+
+
+/****************************Start Working Process Section*************************/
+
+.working-process {
+    overflow: hidden
+}
+
+.working-process h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.working-process p {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.working-process h5 {
+    color: var(--main-color);
+    font-weight: bolder;
+}
+
+.working-process h2 {
+    font-weight: bolder;
+}
+
+.working-process .content-row {
+    max-width: 90%;
+}
+
+
+/****************************End Working Process Section*************************/
+
+
+/******************Start Contact Section****************/
+
+.contact {
+    background: #FAFBFF;
+    overflow-x: hidden;
+}
+
+.contact h1 {
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.contact .btn-contact {
+    border: none;
+    background-color: var(--main-color);
+    color: #fff;
+    font-weight: bold;
+    outline: none;
+}
+
+.contact .btn-whatsapp {
+    border: none;
+    background-color: #2DC64F;
+    color: #fff;
+    font-weight: bold;
+    outline: none;
+}
+
+
+/******************End Contact Section****************/
+
+
+/*****************Digital marketing Page*************/
+
+.digial-marketing-over-view-section h2 {
+    font-weight: bold;
+}
+
+.digial-marketing-over-view-section p {
+    font-size: 1.2rem;
+    font-weight: 600;
+}

@@ -1,0 +1,46 @@
+/***********Start About Us Section************/
+
+.about-us h2 {
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
+
+.about-us p {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+
+/***********End About Us Section************/
+
+
+/***********Start Team Work Section************/
+
+.team-work h2 {
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
+
+.team-work .desc {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.team-work .inner p {
+    color: var(--main-color);
+    font-weight: bold;
+}
+
+
+/***********End Team Work Section************/
+
+
+/***********Start Map Section************/
+
+.map h2 {
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
+
+
+/***********End Map Section************/

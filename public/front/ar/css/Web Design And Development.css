@@ -1,0 +1,121 @@
+/*****************Start over View Section*************/
+
+.overview-section {
+    padding: 90px 0;
+}
+
+.overview-section img {
+    width: 100%;
+}
+
+.overview-section h2 {
+    font-weight: bolder;
+}
+
+
+/*****************End Over View Section***************/
+
+
+/**************************************Start mobile section **************/
+
+.mobile-over-view-section {
+    background-color: #fbfbfb
+}
+
+
+.mobile-over-view-section button,
+.digial-marketing-over-view-section button {
+    border: none;
+    min-width: 20%;
+    background: var(--main-color);
+    border-radius: 20px;
+    outline: none;
+    font-weight: bold;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+
+/**************************************End mobile section **************/
+
+
+/****************************Start Working Process Section*************************/
+
+.working-proces {
+    overflow-x: hidden
+}
+
+.working-process .content-row img {
+    width: 100%;
+}
+
+.working-process h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.working-process h5 {
+    color: var(--main-color);
+    font-weight: bolder;
+}
+
+.working-process h2 {
+    font-weight: bolder;
+}
+
+.working-process .content-row {
+    max-width: 90%;
+}
+
+
+/****************************End Working Process Section*************************/
+
+
+/******************Start Contact Section****************/
+
+.contact {
+    background: #FAFBFF;
+    overflow-x: hidden;
+}
+
+.contact h1 {
+    width: 100%;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.contact .btn-contact {
+    border: none;
+    background-color: var(--main-color);
+    color: #fff;
+    font-weight: bold;
+    outline: none;
+}
+
+.contact .btn-whatsapp {
+    border: none;
+    background-color: #2DC64F;
+    color: #fff;
+    font-weight: bold;
+    outline: none;
+}
+
+
+/******************End Contact Section****************/
+
+
+/*****************Digital marketing Page*************/
+
+.digial-marketing-over-view-section button {
+    min-width: 20%;
+    background: var(--main-color);
+    border-radius: 20px;
+    outline: none;
+    font-weight: bold;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}

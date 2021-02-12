@@ -1,0 +1,25 @@
+.contact-us {
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
+.contact-us h2{
+    font-size:3rem
+}
+.contact-us .row h2{
+    color:var(--main-color);
+    font-size:1.7rem
+}
+.contact-image img{
+    background-color: #fff;
+    padding:20px;
+    width:20%;
+    transform:rotate(0);
+    -webkit-transform:rotate(0);
+    -moz-transform:rotate(0);
+    -ms-transform:rotate(0);
+    -o-transform:rotate(0);
+}
+form input::placeholder , 
+form textarea::placeholder{
+    text-align:right;
+}
